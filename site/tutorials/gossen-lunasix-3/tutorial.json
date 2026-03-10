@@ -4,5 +4,73 @@
   "model": "Lunasix 3",
   "description": "Analog Lightmeter ",
   "tools": [],
-  "steps": []
+  "steps": [
+    {
+      "title": "Gossen Lunasix 3 + calibrate",
+      "intro": "info for DIY repair",
+      "substeps": [],
+      "photos": [
+        {
+          "filename": "1af0cb.jpg",
+          "alt": "Page 01",
+          "annotations": []
+        },
+        {
+          "filename": "75c008.jpg",
+          "alt": "Page 02",
+          "annotations": []
+        },
+        {
+          "filename": "f80445.jpg",
+          "alt": "Page 03",
+          "annotations": []
+        },
+        {
+          "filename": "5e4e94.jpg",
+          "alt": "Page 04",
+          "annotations": []
+        },
+        {
+          "filename": "d5590b.jpg",
+          "alt": "Page 05",
+          "annotations": []
+        },
+        {
+          "filename": "e6259a.jpg",
+          "alt": "Page 06",
+          "annotations": []
+        },
+        {
+          "filename": "6495ac.jpg",
+          "alt": "Page 07",
+          "annotations": []
+        },
+        {
+          "filename": "095460.jpg",
+          "alt": "Page 08",
+          "annotations": []
+        },
+        {
+          "filename": "c607fb.jpg",
+          "alt": "Page 09",
+          "annotations": []
+        },
+        {
+          "filename": "df2955.jpg",
+          "alt": "Page 10",
+          "annotations": []
+        },
+        {
+          "filename": "0cda04.jpg",
+          "alt": "Page 11",
+          "annotations": []
+        },
+        {
+          "filename": "a4e1c2.jpg",
+          "alt": "Page 12",
+          "annotations": []
+        }
+      ]
+    }
+  ]
 }
